@@ -9,35 +9,39 @@ export default function BasicDemo() {
             icon: 'pi pi-home'
         },
         {
-            label: 'Perfil',
-            icon: 'pi pi-star'
-        },
-        {
-            label: 'Projetos',
-            icon: 'pi pi-search',
+            label: 'Orçamento',
+            icon: 'pi pi-shop',
             items: [
                 
                 {
-                    label: 'Weg',
-                    icon: 'pi pi-palette',
+                    label: 'Web',
+                    icon: 'pi pi-globe',
+                },
+                {
+                    label: 'Software',
+                    icon: 'pi pi-desktop',
                 },
                 {
                     label: 'Mobile',
-                    icon: 'pi pi-palette',
+                    icon: 'pi pi-mobile',
                 },
                 {
                     label: 'Back End',
-                    icon: 'pi pi-palette',
+                    icon: 'pi pi-server',
                 },
                 {
                     label: 'Analise de Dados',
-                    icon: 'pi pi-palette',
+                    icon: 'pi pi-chart-pie',
                 },
             ]
         },
         {
-            label: 'Contato',
-            icon: 'pi pi-envelope'
+            label: 'Perfil',
+            icon: 'pi pi-user'
+        },
+        {
+            label: 'carrinho',
+            icon: 'pi pi-shopping-cart'
         }
     ];
 
