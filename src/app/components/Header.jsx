@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'; 
 import { Menubar } from 'primereact/menubar';
 import '../style/Header.css'; // Importação do arquivo CSS personalizado

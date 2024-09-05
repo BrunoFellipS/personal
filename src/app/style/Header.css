@@ -17,8 +17,7 @@
 .custom-menubar .p-menubar .p-menuitem-link:hover {
     background-color: #dfe3ec; /* Cor de fundo ao passar o mouse */
     color: #043a77; /* Cor do texto ao passar o mouse */
-    border-top-right-radius: 25px;
-    border-top-left-radius: 25px;
+    
 }
 
 .custom-menubar .p-menubar .p-menuitem-link .pi {
